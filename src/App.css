@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+  background-color: #EEF1F4;
+  background-size: cover;
+  background-position: center;
+}
+
+form{
+    background-color: white;
+    padding: 0px 60px;
+    border-radius: 10px;
+
+}
+
+button{
+    width: 55%;
+    height: 40px;
+    padding: 10px;
+    border: none;
+    background-color: #5192f5;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.img{
+  width: 48em;
+  height:30em;
+}
+
+.divfirst{
+  margin-left:12px;
+  margin-top:22px;
+  height:38em;
+  width: 48em;
+  background-color:rgb(255, 255, 255);
+}
+
+.divsecond{
+  margin:21px;
+  width:35em;
+  height:45em;
+}
+
+.text{
+  font-size:22;
+  font-weight: bold;
+  font-size: 22px;
+  color:#676767;
+  margin-left:11em;
+}
+
+
